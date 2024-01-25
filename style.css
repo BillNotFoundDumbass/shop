@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-size: 14px;
+}
+
+#luadao {
+    width: 100%;
+}
+
+#ifon {
+    size: 0px;
+}
+
+#nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 25px;
+    color: black;
+}
+
+.til {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+
+
+.page-nav-a {
+    width: 50px;
+}
+
+#stock {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+
+}
+
